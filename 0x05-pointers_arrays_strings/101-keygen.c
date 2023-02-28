@@ -10,7 +10,7 @@ int main(void)
 {
 	int pass, sum;
 
-	srand(time(NULL));
+	srand((unsigned int) time(&t));
 	sum = 0;
 	while (sum <= 2772)
 	{
