@@ -1,4 +1,3 @@
-table File  20 lines (17 sloc)  281 Bytes
 #include <stdio.h>
 #include "main.h"
 
